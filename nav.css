@@ -1,22 +1,7 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,900&display=swap');
 
-body{
-    background-color: #020021;
-}
-
-p {
-    color: #9C8FC3;
-    text-size-adjust: 16px;
+nav {
+    color: white;
+    text-size-adjust: 15px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 700;
-}
-
-img {
-    width: 182px;
-    height: 45px;
-}
-
-}
-
-
+    font-weight: 400;
