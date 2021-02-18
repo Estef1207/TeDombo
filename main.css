@@ -26,11 +26,12 @@
 /* formato Derecha*/
 
 .imagenDrum {    
-    position: relative;
+    
     justify-content: center;
     width: 100%;
-    height: 263px;
-    margin-left: 0%;
+    height: auto;
+    
+    
 }
 
 /* formato Izquierda*/

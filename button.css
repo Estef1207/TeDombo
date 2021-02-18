@@ -1,0 +1,69 @@
+.contenedorButt {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+ }
+
+.btn {
+    position: absolute;
+    z-index: 20;
+    border-radius: 50%;
+    background: #131313;
+    border: 3px solid #26242C;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.btn-s {
+    width: 8%;
+    height: 0;
+    padding:8%;
+}
+
+.btn-m {
+    width: 11%;
+    height: 0;
+    padding: 11%;
+
+}
+
+.but1de {
+    top: 5%;
+    left: 80%;
+}
+
+.but2de {
+    top: 28%;
+    left: 73%;
+}
+
+
+.but3de {
+    top: 52%;
+    left: 62%;
+}
+
+.but4de {
+    top: 15%;
+    left: 50%;
+}
+
+.but1iz {
+    top: 6%;
+    left:2% ;
+}
+
+.but2iz {
+    top:28% ;
+    left:9% ;
+}
+
+.but3iz {
+    top: 52% ;
+    left:15% ;
+}
+
+.but4iz {
+    top: 15%;
+    left:25% ;
+}
