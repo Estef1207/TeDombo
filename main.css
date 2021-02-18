@@ -29,8 +29,9 @@
     justify-content: initial;
     width: 393px;
     height: 263px;
-    left: 621px;
-    top: 232px;
+    left: 0%;
+    top: 20%;
+    margin-left: 0%;
 }
 
 /* formato Izquierda*/
@@ -79,4 +80,3 @@ h3 {
     font-size: 15px;
     line-height: 18px;
     }
-
