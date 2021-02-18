@@ -7,8 +7,8 @@ footer {
     align-items: center;
     color: white;
     width: 100%;
-    top: 80%;
-    position: absolute;
+  
+    border:1px solid red;
 }
 
 footer h3 {

@@ -11,26 +11,25 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: -250px;       
+    width: 50%;      
+    border:1px solid burlywood;
 }
 
 .parteDer {
     display: flex;
     justify-content: center;
     position: relative;
-    height: 100vh;
     width: 50%;
+    border:1px solid blueviolet;
 }
 
 /* formato Derecha*/
 
 .imagenDrum {    
-    position: absolute;
+    position: relative;
     justify-content: center;
-    width: 393px;
+    width: 100%;
     height: 263px;
-    left: 30%;
-    top: 20%;
     margin-left: 0%;
 }
 
