@@ -25,11 +25,11 @@
 /* formato Derecha*/
 
 .imagenDrum {    
-    position: relative;
-    justify-content: initial;
+    position: absolute;
+    justify-content: center;
     width: 393px;
     height: 263px;
-    left: 0%;
+    left: 30%;
     top: 20%;
     margin-left: 0%;
 }
@@ -80,8 +80,9 @@ h3 {
     font-size: 15px;
     line-height: 18px;
     }
-
+    
  .Boton-verde:hover {
     background-color: white;
     color:#00F482 ;
+
  }
