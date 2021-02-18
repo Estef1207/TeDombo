@@ -16,6 +16,7 @@ footer h3 {
     font-size: 30px;
     line-height: 27px;
     margin-bottom: 1%;
+    color: white;
 }
 
 footer p {
@@ -26,6 +27,7 @@ footer p {
     font-size: 15px;
     line-height: 18px;
     margin-bottom: 2%;
+    color: #9C8FC3;
 }
 
 .Boton-blanco {
