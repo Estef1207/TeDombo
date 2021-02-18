@@ -41,3 +41,8 @@ footer p {
     color: #000000;
     margin-bottom: 3%;
 }
+
+.Boton-blanco:hover {
+    background-color: black;
+    color: white;
+}

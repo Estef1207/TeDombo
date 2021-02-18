@@ -11,9 +11,11 @@ nav {
     font-size: 15px;
     
 }
-
 nav a {
     color: white;
     text-decoration: none;
     
+}
+.SignUp {
+    color: #00AB82;
 }
