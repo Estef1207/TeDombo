@@ -79,4 +79,8 @@ h3 {
     font-size: 15px;
     line-height: 18px;
     }
+ .Boton-verde:hover {
+    background-color: white;
+    color:#00F482 ;
 
+ }
