@@ -26,3 +26,11 @@ nav a {
 .SignUp {
     color: #00AB82;
 }
+
+nav a:hover {
+    text-decoration: underline white;
+}
+
+.SignUp:hover {
+    text-decoration: underline #00AB82;
+}
