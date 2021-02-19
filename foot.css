@@ -31,8 +31,8 @@ footer p {
 .Boton-blanco {
     border-radius: 55px;
     background-color: white;
-    width: 199px;
-    height: 51px;
+    width: 200px;
+    height: 50px;
     font-family: 'Rubik', sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -45,6 +45,8 @@ footer p {
 .Boton-blanco:hover {
     background-color: black;
     color: white;
+    width: 220px;
+    height: 55px;
 }
 
 footer h3:hover {
