@@ -84,13 +84,16 @@ h3 {
     color:#00F482 ;
     width: 194px;
     height: 55px;
+    transition: 1s;
 
  }
 
  h1:hover {
      font-size: 70px;
+     transition: 1s;
  }
 
  main p:hover {
      font-size: 25px;
+     transition: 1s;
  }

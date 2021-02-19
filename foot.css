@@ -47,12 +47,17 @@ footer p {
     color: white;
     width: 220px;
     height: 55px;
+    transition: 1s;
 }
 
 footer h3:hover {
     font-size: 42px;
+    transition: 1s;
+    transition: 1s;
+
 }
 
 footer p:hover {
     font-size: 23px;
+    transition: 1s;
 }

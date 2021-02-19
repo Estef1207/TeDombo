@@ -22,4 +22,5 @@ header {
 img:hover {
     width: 120%;
     height: 90%;
+    transition: 1s;
 }
