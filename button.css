@@ -12,6 +12,8 @@
     border: 3px solid #26242C;
     box-sizing: border-box;
     position: absolute;
+    outline: none;
+
 }
 
 .btn-s {
