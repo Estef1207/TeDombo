@@ -19,3 +19,7 @@ header {
     justify-content: space-between;
 }
 
+img:hover {
+    width: 120%;
+    height: 90%;
+}

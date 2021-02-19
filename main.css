@@ -84,3 +84,11 @@ h3 {
     color:#00F482 ;
 
  }
+
+ h1:hover {
+     font-size: 70px;
+ }
+
+ main p:hover {
+     font-size: 25px;
+ }
