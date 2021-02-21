@@ -40,24 +40,26 @@
                 
                 <img class="imagenDrum" src="./recursos/drumkit.png">
                 <div class="contenedorButt">
-                    <button class="but1iz btn-s btn"></button>
-                    <button class="but2iz btn-s btn" ></button>
-                    <button class="but3iz btn-m btn" ></button>
-                    <button class="but4iz btn-m btn" ></button>
-                    <button class="but1de btn-s btn" ></button>
-                    <button class="but2de btn-s btn" ></button>
-                    <button class="but3de btn-m btn" ></button>
-                    <button class="but4de btn-m btn" ></button>                 
+                    <button onclick="playAudio1()" class="but1iz btn-s btn"></button>
+                    <button onclick="playAudio2()" class="but2iz btn-s btn" ></button>
+                    <button onclick="playAudio3()" class="but3iz btn-m btn" ></button>
+                    <button onclick="playAudio4()" class="but4iz btn-m btn" ></button>
+                    <button onclick="playAudio1()" class="but1de btn-s btn" ></button>
+                    <button onclick="playAudio2()" class="but2de btn-s btn" ></button>
+                    <button onclick="playAudio3()" class="but3de btn-m btn" ></button>
+                    <button onclick="playAudio4()" class="but4de btn-m btn" ></button>                 
                 </div>
             </div>
-            
-        
-        
+        <audio src="/recursos/bombo.mp3" id="bombo"></audio>       
+        <audio src="/recursos/crash.mp3" id="crash"></audio>   
+        <audio src="/recursos/hit-hat.mp3" id="hit"></audio>   
+        <audio src="/recursos/redoblante.mp3" id="redo"></audio>       
     </main>
     <footer>
         <h3>Try Premium free for 1 month.</h3>
         <p>Play millions of songs ad-free, on-demand, and offline.</p>
         <button class="Boton-blanco">See pricing</button>
     </footer>  
+    <script src="/js/scripts.js"></script>
 </body>
 </html>
